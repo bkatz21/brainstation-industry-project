@@ -1,0 +1,1001 @@
+,Where they Clicked,Whey they Clicked,Help Source,Successfully Helped,Mentor Requested,Mentor Responded,Mentor
+0,Customers,Registration Help,Help Link,1,0,0,Not Requested
+1,Customers,other,Help Link,0,0,0,Not Requested
+2,Analytics,Adding Promo Code,Help Link,1,0,0,Not Requested
+3,Finances,other,Community Hub,1,0,0,Not Requested
+4,Products,Accessing Data,Community Hub,0,1,1,Chantal
+5,Orders,Registration Help,Help Link,1,1,1,Natanael
+6,Home,Accessing Data,Mentor,0,1,0,Not Requested
+7,Customers,other,Help Link,1,0,0,Not Requested
+8,Orders,Accessing Data,Help Link,1,1,0,Not Requested
+9,Orders,Accessing Data,Community Hub,1,1,0,Not Requested
+10,Apps,other,Help Link,1,0,0,Not Requested
+11,Home,Accessing Data,Help Link,1,1,1,Maya
+12,Products,Registration Help,Help Link,0,1,0,Not Requested
+13,Analytics,other,Help Link,1,0,0,Not Requested
+14,Products,Adding Promo Code,Mentor,1,0,0,Not Requested
+15,Analytics,Registration Help,Community Hub,1,1,0,Not Requested
+16,Home,Accessing Data,Community Hub,1,1,1,Ben
+17,Orders,Registration Help,Help Link,0,1,0,Not Requested
+18,Finances,Registration Help,Mentor,1,0,0,Not Requested
+19,Analytics,App Functionality,Help Link,1,0,0,Not Requested
+20,Analytics,Registration Help,Mentor,1,1,1,Natanael
+21,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+22,Customers,other,Community Hub,0,1,0,Not Requested
+23,Customers,Registration Help,Help Link,1,0,0,Not Requested
+24,Customers,other,Community Hub,1,0,0,Not Requested
+25,Apps,Adding Promo Code,Help Link,0,1,1,Ben
+26,Analytics,Registration Help,Community Hub,1,0,0,Not Requested
+27,Marketing,Registration Help,Mentor,1,1,1,Natanael
+28,Analytics,Registration Help,Community Hub,0,0,0,Not Requested
+29,Apps,Registration Help,Help Link,0,1,0,Not Requested
+30,Customers,Adding Promo Code,Community Hub,1,1,0,Not Requested
+31,Apps,Accessing Data,Help Link,1,1,0,Not Requested
+32,Apps,other,Help Link,0,0,0,Not Requested
+33,Orders,App Functionality,Mentor,1,1,0,Not Requested
+34,Finances,Accessing Data,Help Link,1,0,0,Not Requested
+35,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+36,Analytics,Adding Promo Code,Help Link,1,0,0,Not Requested
+37,Home,App Functionality,Help Link,1,0,0,Not Requested
+38,Orders,other,Community Hub,1,1,1,Ben
+39,Orders,App Functionality,Mentor,1,0,0,Not Requested
+40,Orders,Accessing Data,Mentor,0,1,0,Not Requested
+41,Analytics,App Functionality,Mentor,0,1,0,Not Requested
+42,Orders,Accessing Data,Mentor,1,1,0,Not Requested
+43,Apps,Registration Help,Help Link,1,0,0,Not Requested
+44,Products,Accessing Data,Mentor,0,1,0,Not Requested
+45,Marketing,Registration Help,Community Hub,1,1,0,Not Requested
+46,Marketing,other,Mentor,1,1,0,Not Requested
+47,Discounts,Adding Promo Code,Community Hub,0,0,0,Not Requested
+48,Customers,Adding Promo Code,Mentor,0,0,0,Not Requested
+49,Analytics,other,Community Hub,1,1,0,Not Requested
+50,Analytics,other,Mentor,0,1,1,Shaneel
+51,Customers,Registration Help,Mentor,0,0,0,Not Requested
+52,Orders,Registration Help,Mentor,0,0,0,Not Requested
+53,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+54,Marketing,Adding Promo Code,Mentor,1,1,1,Maya
+55,Products,Registration Help,Help Link,1,0,0,Not Requested
+56,Home,Accessing Data,Mentor,0,0,0,Not Requested
+57,Home,other,Mentor,1,1,0,Not Requested
+58,Home,other,Community Hub,1,0,0,Not Requested
+59,Apps,other,Mentor,1,1,0,Not Requested
+60,Apps,Accessing Data,Help Link,1,1,1,Yik
+61,Apps,App Functionality,Help Link,0,0,0,Not Requested
+62,Marketing,Accessing Data,Mentor,1,0,0,Not Requested
+63,Analytics,App Functionality,Help Link,1,0,0,Not Requested
+64,Marketing,Accessing Data,Community Hub,0,1,1,Shaneel
+65,Apps,other,Community Hub,1,0,0,Not Requested
+66,Apps,App Functionality,Community Hub,1,0,0,Not Requested
+67,Apps,other,Community Hub,1,1,0,Not Requested
+68,Analytics,Accessing Data,Mentor,1,1,0,Not Requested
+69,Marketing,Adding Promo Code,Community Hub,1,0,0,Not Requested
+70,Orders,Accessing Data,Help Link,1,0,0,Not Requested
+71,Discounts,Adding Promo Code,Mentor,0,1,1,Ben
+72,Apps,other,Mentor,1,1,1,Chantal
+73,Home,other,Community Hub,1,1,0,Not Requested
+74,Apps,Registration Help,Mentor,0,0,0,Not Requested
+75,Apps,App Functionality,Mentor,0,1,0,Not Requested
+76,Home,Registration Help,Mentor,1,0,0,Not Requested
+77,Customers,App Functionality,Mentor,1,0,0,Not Requested
+78,Orders,App Functionality,Help Link,1,0,0,Not Requested
+79,Customers,Registration Help,Community Hub,1,1,1,Fahd
+80,Home,Registration Help,Help Link,1,0,0,Not Requested
+81,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+82,Home,Adding Promo Code,Community Hub,1,0,0,Not Requested
+83,Finances,other,Help Link,1,1,0,Not Requested
+84,Home,App Functionality,Mentor,1,0,0,Not Requested
+85,Finances,Accessing Data,Help Link,0,0,0,Not Requested
+86,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+87,Analytics,App Functionality,Community Hub,0,1,0,Not Requested
+88,Analytics,Accessing Data,Community Hub,1,0,0,Not Requested
+89,Analytics,Registration Help,Help Link,1,1,1,Shaneel
+90,Home,Registration Help,Community Hub,0,0,0,Not Requested
+91,Finances,App Functionality,Community Hub,0,1,1,Fahd
+92,Apps,Accessing Data,Community Hub,1,1,1,Fahd
+93,Products,Registration Help,Community Hub,1,1,1,Maya
+94,Marketing,Accessing Data,Mentor,1,1,1,Fahd
+95,Marketing,other,Community Hub,0,1,1,Shaneel
+96,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+97,Customers,other,Mentor,1,0,0,Not Requested
+98,Finances,Registration Help,Mentor,1,1,1,Ben
+99,Orders,App Functionality,Community Hub,0,0,0,Not Requested
+100,Home,Registration Help,Help Link,1,1,1,Maya
+101,Apps,Registration Help,Mentor,1,1,1,Chantal
+102,Marketing,App Functionality,Community Hub,1,0,0,Not Requested
+103,Apps,other,Mentor,0,1,0,Not Requested
+104,Analytics,App Functionality,Mentor,1,1,1,Ben
+105,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+106,Home,Accessing Data,Mentor,1,1,1,Shaneel
+107,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+108,Marketing,other,Mentor,1,1,0,Not Requested
+109,Analytics,Accessing Data,Mentor,0,1,1,Fahd
+110,Finances,Accessing Data,Mentor,1,0,0,Not Requested
+111,Apps,other,Mentor,0,1,0,Not Requested
+112,Analytics,other,Community Hub,1,0,0,Not Requested
+113,Apps,other,Community Hub,1,1,0,Not Requested
+114,Orders,other,Help Link,1,1,1,Yik
+115,Orders,other,Community Hub,0,1,0,Not Requested
+116,Analytics,Adding Promo Code,Help Link,0,1,0,Not Requested
+117,Orders,Accessing Data,Help Link,0,1,0,Not Requested
+118,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+119,Finances,Accessing Data,Community Hub,1,0,0,Not Requested
+120,Analytics,Accessing Data,Mentor,1,0,0,Not Requested
+121,Apps,Registration Help,Help Link,1,1,1,Yik
+122,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+123,Apps,other,Mentor,1,0,0,Not Requested
+124,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+125,Products,Registration Help,Community Hub,1,0,0,Not Requested
+126,Analytics,Registration Help,Help Link,0,1,1,Chantal
+127,Finances,Accessing Data,Mentor,1,0,0,Not Requested
+128,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+129,Apps,Registration Help,Help Link,1,1,0,Not Requested
+130,Finances,Registration Help,Mentor,1,0,0,Not Requested
+131,Orders,App Functionality,Help Link,1,0,0,Not Requested
+132,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+133,Analytics,other,Community Hub,1,1,0,Not Requested
+134,Home,Accessing Data,Community Hub,1,1,0,Not Requested
+135,Apps,Registration Help,Community Hub,1,0,0,Not Requested
+136,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+137,Marketing,Registration Help,Community Hub,1,1,1,Fahd
+138,Apps,other,Community Hub,1,0,0,Not Requested
+139,Apps,Registration Help,Mentor,1,0,0,Not Requested
+140,Finances,Adding Promo Code,Community Hub,0,0,0,Not Requested
+141,Orders,Registration Help,Help Link,1,0,0,Not Requested
+142,Orders,Registration Help,Mentor,1,1,1,Ben
+143,Apps,other,Community Hub,1,0,0,Not Requested
+144,Orders,Accessing Data,Mentor,1,1,1,Natanael
+145,Finances,App Functionality,Community Hub,1,1,0,Not Requested
+146,Apps,Adding Promo Code,Community Hub,1,0,0,Not Requested
+147,Analytics,Registration Help,Help Link,0,1,0,Not Requested
+148,Home,Adding Promo Code,Community Hub,1,1,1,Yik
+149,Apps,Registration Help,Help Link,1,1,1,Natanael
+150,Orders,Registration Help,Mentor,0,0,0,Not Requested
+151,Products,Registration Help,Community Hub,0,1,1,Yik
+152,Products,other,Mentor,0,0,0,Not Requested
+153,Orders,Registration Help,Mentor,1,0,0,Not Requested
+154,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+155,Analytics,Registration Help,Help Link,1,0,0,Not Requested
+156,Apps,Accessing Data,Help Link,1,0,0,Not Requested
+157,Home,Registration Help,Community Hub,1,0,0,Not Requested
+158,Orders,Accessing Data,Community Hub,0,0,0,Not Requested
+159,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+160,Analytics,Registration Help,Help Link,0,1,0,Not Requested
+161,Analytics,other,Help Link,0,0,0,Not Requested
+162,Marketing,App Functionality,Community Hub,1,1,1,Chantal
+163,Marketing,App Functionality,Mentor,1,1,0,Not Requested
+164,Orders,other,Community Hub,1,1,1,Maya
+165,Finances,other,Community Hub,0,0,0,Not Requested
+166,Finances,Accessing Data,Community Hub,1,1,0,Not Requested
+167,Apps,Registration Help,Help Link,1,1,1,Chantal
+168,Marketing,Registration Help,Help Link,0,1,0,Not Requested
+169,Products,Registration Help,Help Link,1,1,1,Natanael
+170,Analytics,other,Help Link,1,0,0,Not Requested
+171,Orders,Adding Promo Code,Community Hub,0,0,0,Not Requested
+172,Analytics,App Functionality,Help Link,1,1,1,Shaneel
+173,Apps,Registration Help,Community Hub,1,1,1,Fahd
+174,Marketing,Registration Help,Mentor,1,1,1,Maya
+175,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+176,Home,other,Help Link,1,1,0,Not Requested
+177,Orders,other,Community Hub,0,1,0,Not Requested
+178,Marketing,Registration Help,Community Hub,1,1,1,Fahd
+179,Marketing,Registration Help,Community Hub,0,0,0,Not Requested
+180,Apps,Accessing Data,Mentor,1,1,1,Shaneel
+181,Orders,App Functionality,Help Link,1,0,0,Not Requested
+182,Orders,Registration Help,Mentor,1,1,0,Not Requested
+183,Apps,Registration Help,Community Hub,0,1,0,Not Requested
+184,Customers,App Functionality,Community Hub,0,0,0,Not Requested
+185,Home,Accessing Data,Community Hub,1,0,0,Not Requested
+186,Analytics,Accessing Data,Help Link,1,0,0,Not Requested
+187,Orders,other,Help Link,1,1,1,Natanael
+188,Analytics,Registration Help,Mentor,0,0,0,Not Requested
+189,Marketing,Accessing Data,Community Hub,1,0,0,Not Requested
+190,Analytics,Registration Help,Community Hub,1,1,1,Shaneel
+191,Apps,other,Mentor,0,1,0,Not Requested
+192,Orders,Adding Promo Code,Mentor,1,0,0,Not Requested
+193,Apps,Registration Help,Help Link,1,0,0,Not Requested
+194,Analytics,Registration Help,Help Link,0,1,0,Not Requested
+195,Apps,other,Community Hub,1,0,0,Not Requested
+196,Apps,other,Community Hub,1,1,1,Natanael
+197,Home,Accessing Data,Mentor,0,0,0,Not Requested
+198,Apps,Registration Help,Mentor,0,1,0,Not Requested
+199,Marketing,Accessing Data,Mentor,1,1,0,Not Requested
+200,Products,Registration Help,Mentor,1,0,0,Not Requested
+201,Apps,App Functionality,Mentor,0,1,1,Yik
+202,Finances,Registration Help,Help Link,0,1,0,Not Requested
+203,Marketing,Registration Help,Help Link,1,1,0,Not Requested
+204,Orders,Registration Help,Help Link,0,0,0,Not Requested
+205,Orders,other,Community Hub,1,0,0,Not Requested
+206,Apps,App Functionality,Community Hub,1,0,0,Not Requested
+207,Customers,other,Help Link,1,1,0,Not Requested
+208,Orders,Accessing Data,Help Link,0,1,1,Maya
+209,Products,App Functionality,Help Link,1,0,0,Not Requested
+210,Home,Accessing Data,Community Hub,1,1,1,Ben
+211,Apps,Registration Help,Mentor,1,1,1,Maya
+212,Apps,App Functionality,Help Link,1,0,0,Not Requested
+213,Analytics,other,Mentor,0,0,0,Not Requested
+214,Orders,Registration Help,Mentor,0,1,0,Not Requested
+215,Products,Accessing Data,Help Link,1,0,0,Not Requested
+216,Apps,Adding Promo Code,Mentor,1,1,1,Fahd
+217,Home,Registration Help,Mentor,1,0,0,Not Requested
+218,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+219,Orders,Accessing Data,Community Hub,0,1,0,Not Requested
+220,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+221,Orders,Adding Promo Code,Help Link,1,1,1,Natanael
+222,Products,Registration Help,Help Link,0,0,0,Not Requested
+223,Finances,Adding Promo Code,Community Hub,1,1,0,Not Requested
+224,Orders,Registration Help,Community Hub,0,0,0,Not Requested
+225,Apps,Accessing Data,Mentor,1,1,0,Not Requested
+226,Orders,other,Mentor,1,0,0,Not Requested
+227,Orders,Registration Help,Mentor,0,0,0,Not Requested
+228,Marketing,Registration Help,Mentor,0,1,1,Natanael
+229,Orders,Registration Help,Help Link,0,0,0,Not Requested
+230,Finances,other,Mentor,1,1,0,Not Requested
+231,Analytics,other,Mentor,1,1,1,Ben
+232,Analytics,Accessing Data,Help Link,0,1,0,Not Requested
+233,Orders,Registration Help,Mentor,0,0,0,Not Requested
+234,Products,other,Mentor,1,1,0,Not Requested
+235,Apps,Registration Help,Mentor,1,1,1,Chantal
+236,Marketing,other,Mentor,1,0,0,Not Requested
+237,Products,Registration Help,Help Link,1,0,0,Not Requested
+238,Analytics,Registration Help,Help Link,1,1,0,Not Requested
+239,Apps,Registration Help,Help Link,0,0,0,Not Requested
+240,Analytics,Registration Help,Mentor,0,1,0,Not Requested
+241,Finances,other,Help Link,1,1,0,Not Requested
+242,Analytics,Registration Help,Mentor,1,1,0,Not Requested
+243,Analytics,Accessing Data,Mentor,0,0,0,Not Requested
+244,Apps,other,Mentor,0,1,1,Chantal
+245,Finances,Accessing Data,Mentor,1,1,1,Ben
+246,Orders,other,Help Link,1,1,1,Maya
+247,Analytics,Registration Help,Help Link,0,0,0,Not Requested
+248,Orders,App Functionality,Mentor,1,0,0,Not Requested
+249,Home,other,Help Link,1,0,0,Not Requested
+250,Apps,App Functionality,Mentor,0,1,0,Not Requested
+251,Analytics,other,Mentor,1,1,1,Fahd
+252,Analytics,Accessing Data,Help Link,0,0,0,Not Requested
+253,Finances,other,Community Hub,1,1,1,Fahd
+254,Orders,other,Mentor,1,0,0,Not Requested
+255,Analytics,App Functionality,Help Link,0,1,0,Not Requested
+256,Marketing,Accessing Data,Mentor,0,1,1,Natanael
+257,Finances,other,Community Hub,1,1,1,Fahd
+258,Home,Registration Help,Community Hub,1,0,0,Not Requested
+259,Marketing,Accessing Data,Community Hub,0,1,0,Not Requested
+260,Products,App Functionality,Mentor,1,1,0,Not Requested
+261,Home,App Functionality,Help Link,0,1,0,Not Requested
+262,Orders,Accessing Data,Mentor,1,1,1,Shaneel
+263,Marketing,Registration Help,Community Hub,1,1,0,Not Requested
+264,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+265,Apps,App Functionality,Community Hub,1,0,0,Not Requested
+266,Customers,other,Mentor,1,0,0,Not Requested
+267,Home,other,Community Hub,0,1,0,Not Requested
+268,Orders,Accessing Data,Mentor,1,1,1,Yik
+269,Apps,Adding Promo Code,Community Hub,1,1,1,Natanael
+270,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+271,Orders,Accessing Data,Community Hub,1,1,0,Not Requested
+272,Orders,App Functionality,Community Hub,1,0,0,Not Requested
+273,Orders,Accessing Data,Mentor,1,1,1,Chantal
+274,Home,Registration Help,Help Link,1,1,1,Ben
+275,Orders,Accessing Data,Community Hub,1,1,1,Chantal
+276,Products,other,Community Hub,1,1,0,Not Requested
+277,Orders,Registration Help,Help Link,1,0,0,Not Requested
+278,Apps,Registration Help,Mentor,1,1,1,Ben
+279,Finances,Registration Help,Mentor,0,1,1,Yik
+280,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+281,Analytics,Accessing Data,Help Link,1,0,0,Not Requested
+282,Analytics,Registration Help,Help Link,0,0,0,Not Requested
+283,Analytics,App Functionality,Mentor,0,0,0,Not Requested
+284,Apps,App Functionality,Mentor,1,1,1,Shaneel
+285,Customers,other,Community Hub,1,1,1,Shaneel
+286,Finances,other,Help Link,0,0,0,Not Requested
+287,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+288,Marketing,Registration Help,Help Link,1,1,1,Maya
+289,Marketing,Registration Help,Mentor,1,0,0,Not Requested
+290,Apps,Registration Help,Help Link,1,1,1,Fahd
+291,Products,App Functionality,Mentor,1,1,1,Chantal
+292,Home,Accessing Data,Community Hub,1,1,1,Shaneel
+293,Orders,Registration Help,Community Hub,1,1,0,Not Requested
+294,Analytics,Accessing Data,Mentor,0,1,0,Not Requested
+295,Marketing,Registration Help,Mentor,1,0,0,Not Requested
+296,Home,Accessing Data,Community Hub,0,1,0,Not Requested
+297,Marketing,Accessing Data,Community Hub,1,0,0,Not Requested
+298,Marketing,Accessing Data,Help Link,1,0,0,Not Requested
+299,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+300,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+301,Apps,Adding Promo Code,Community Hub,1,1,1,Chantal
+302,Customers,other,Mentor,1,0,0,Not Requested
+303,Analytics,Registration Help,Community Hub,1,1,1,Natanael
+304,Products,App Functionality,Community Hub,1,0,0,Not Requested
+305,Orders,Registration Help,Mentor,0,0,0,Not Requested
+306,Finances,Registration Help,Help Link,1,0,0,Not Requested
+307,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+308,Orders,other,Mentor,1,0,0,Not Requested
+309,Apps,Registration Help,Mentor,0,0,0,Not Requested
+310,Orders,Registration Help,Mentor,0,1,0,Not Requested
+311,Home,other,Community Hub,1,0,0,Not Requested
+312,Orders,other,Community Hub,0,1,1,Ben
+313,Apps,Adding Promo Code,Mentor,0,0,0,Not Requested
+314,Customers,Accessing Data,Mentor,1,0,0,Not Requested
+315,Home,Accessing Data,Help Link,0,1,1,Fahd
+316,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+317,Apps,App Functionality,Community Hub,1,0,0,Not Requested
+318,Marketing,Accessing Data,Mentor,1,0,0,Not Requested
+319,Finances,Accessing Data,Community Hub,1,0,0,Not Requested
+320,Orders,Registration Help,Mentor,1,1,0,Not Requested
+321,Products,Registration Help,Help Link,1,0,0,Not Requested
+322,Home,Accessing Data,Help Link,1,1,1,Natanael
+323,Marketing,Registration Help,Help Link,1,1,1,Maya
+324,Customers,App Functionality,Community Hub,1,1,0,Not Requested
+325,Marketing,Accessing Data,Community Hub,1,1,0,Not Requested
+326,Marketing,other,Community Hub,1,0,0,Not Requested
+327,Orders,Accessing Data,Community Hub,1,0,0,Not Requested
+328,Apps,other,Mentor,0,1,1,Natanael
+329,Orders,App Functionality,Help Link,0,1,0,Not Requested
+330,Marketing,Registration Help,Help Link,0,1,1,Maya
+331,Apps,other,Help Link,1,0,0,Not Requested
+332,Products,Registration Help,Help Link,0,0,0,Not Requested
+333,Home,other,Community Hub,1,0,0,Not Requested
+334,Orders,Registration Help,Help Link,1,1,0,Not Requested
+335,Apps,App Functionality,Community Hub,0,1,1,Yik
+336,Customers,Registration Help,Help Link,1,1,1,Ben
+337,Home,Registration Help,Mentor,1,0,0,Not Requested
+338,Apps,other,Community Hub,0,1,1,Chantal
+339,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+340,Discounts,Adding Promo Code,Mentor,1,1,0,Not Requested
+341,Orders,Registration Help,Mentor,1,0,0,Not Requested
+342,Apps,Accessing Data,Community Hub,0,1,1,Shaneel
+343,Apps,Accessing Data,Help Link,0,1,0,Not Requested
+344,Products,Registration Help,Mentor,1,0,0,Not Requested
+345,Analytics,Accessing Data,Mentor,1,0,0,Not Requested
+346,Marketing,other,Mentor,1,1,0,Not Requested
+347,Marketing,Adding Promo Code,Mentor,1,0,0,Not Requested
+348,Apps,other,Help Link,1,1,0,Not Requested
+349,Apps,Accessing Data,Mentor,1,1,1,Chantal
+350,Finances,Adding Promo Code,Help Link,1,1,0,Not Requested
+351,Customers,Registration Help,Mentor,1,1,1,Natanael
+352,Apps,App Functionality,Help Link,1,1,0,Not Requested
+353,Orders,Accessing Data,Help Link,1,1,1,Maya
+354,Marketing,Registration Help,Mentor,1,0,0,Not Requested
+355,Marketing,Registration Help,Mentor,0,0,0,Not Requested
+356,Finances,Registration Help,Help Link,1,1,1,Shaneel
+357,Apps,Registration Help,Help Link,1,0,0,Not Requested
+358,Apps,App Functionality,Mentor,1,1,1,Fahd
+359,Marketing,Registration Help,Mentor,1,0,0,Not Requested
+360,Orders,other,Community Hub,1,0,0,Not Requested
+361,Analytics,App Functionality,Community Hub,1,1,1,Fahd
+362,Marketing,Accessing Data,Community Hub,0,1,0,Not Requested
+363,Home,Accessing Data,Community Hub,0,1,1,Maya
+364,Orders,Adding Promo Code,Mentor,0,1,0,Not Requested
+365,Customers,Registration Help,Community Hub,1,1,0,Not Requested
+366,Products,Accessing Data,Mentor,0,0,0,Not Requested
+367,Analytics,Accessing Data,Help Link,1,0,0,Not Requested
+368,Marketing,Accessing Data,Community Hub,1,1,0,Not Requested
+369,Marketing,other,Help Link,1,0,0,Not Requested
+370,Orders,Registration Help,Help Link,0,1,1,Maya
+371,Home,Accessing Data,Community Hub,1,0,0,Not Requested
+372,Marketing,Accessing Data,Community Hub,1,1,1,Chantal
+373,Orders,Accessing Data,Help Link,1,0,0,Not Requested
+374,Orders,other,Community Hub,0,1,0,Not Requested
+375,Home,Registration Help,Community Hub,1,0,0,Not Requested
+376,Finances,App Functionality,Mentor,0,1,1,Chantal
+377,Finances,App Functionality,Mentor,1,1,0,Not Requested
+378,Home,Accessing Data,Help Link,1,0,0,Not Requested
+379,Analytics,Registration Help,Help Link,0,1,0,Not Requested
+380,Customers,Accessing Data,Help Link,1,1,0,Not Requested
+381,Apps,other,Community Hub,0,0,0,Not Requested
+382,Home,Accessing Data,Help Link,1,0,0,Not Requested
+383,Apps,App Functionality,Community Hub,0,1,0,Not Requested
+384,Customers,Adding Promo Code,Community Hub,0,0,0,Not Requested
+385,Customers,other,Mentor,1,1,1,Maya
+386,Orders,App Functionality,Help Link,1,0,0,Not Requested
+387,Orders,Adding Promo Code,Mentor,1,1,1,Natanael
+388,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+389,Orders,Registration Help,Community Hub,1,1,1,Natanael
+390,Apps,Registration Help,Mentor,1,0,0,Not Requested
+391,Home,Accessing Data,Mentor,1,0,0,Not Requested
+392,Analytics,Registration Help,Mentor,0,1,0,Not Requested
+393,Analytics,Adding Promo Code,Help Link,1,1,0,Not Requested
+394,Apps,App Functionality,Mentor,0,1,0,Not Requested
+395,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+396,Apps,Registration Help,Help Link,1,1,1,Chantal
+397,Orders,other,Mentor,0,1,0,Not Requested
+398,Home,other,Community Hub,1,1,1,Ben
+399,Marketing,Adding Promo Code,Help Link,1,0,0,Not Requested
+400,Analytics,Registration Help,Mentor,1,0,0,Not Requested
+401,Home,other,Mentor,1,0,0,Not Requested
+402,Products,other,Community Hub,1,1,1,Ben
+403,Marketing,Accessing Data,Mentor,0,0,0,Not Requested
+404,Marketing,Registration Help,Community Hub,0,0,0,Not Requested
+405,Finances,Accessing Data,Help Link,1,0,0,Not Requested
+406,Finances,Registration Help,Mentor,1,0,0,Not Requested
+407,Orders,other,Community Hub,0,0,0,Not Requested
+408,Marketing,other,Community Hub,1,1,1,Fahd
+409,Home,Registration Help,Help Link,1,1,0,Not Requested
+410,Apps,other,Help Link,1,0,0,Not Requested
+411,Marketing,Registration Help,Help Link,1,1,1,Maya
+412,Analytics,Accessing Data,Mentor,1,0,0,Not Requested
+413,Orders,other,Help Link,1,0,0,Not Requested
+414,Apps,Adding Promo Code,Mentor,0,1,1,Shaneel
+415,Apps,App Functionality,Help Link,1,1,0,Not Requested
+416,Apps,Adding Promo Code,Mentor,0,0,0,Not Requested
+417,Analytics,Adding Promo Code,Community Hub,1,0,0,Not Requested
+418,Products,other,Mentor,1,1,1,Shaneel
+419,Orders,Accessing Data,Help Link,0,1,0,Not Requested
+420,Orders,Registration Help,Mentor,1,1,0,Not Requested
+421,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+422,Home,Accessing Data,Community Hub,1,1,0,Not Requested
+423,Home,Accessing Data,Community Hub,1,1,1,Maya
+424,Apps,Adding Promo Code,Community Hub,1,1,1,Chantal
+425,Apps,other,Mentor,1,1,1,Ben
+426,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+427,Finances,Adding Promo Code,Community Hub,1,1,1,Natanael
+428,Finances,Accessing Data,Help Link,1,0,0,Not Requested
+429,Finances,other,Help Link,0,1,1,Natanael
+430,Marketing,Registration Help,Help Link,1,1,1,Natanael
+431,Apps,other,Help Link,1,1,0,Not Requested
+432,Orders,Registration Help,Community Hub,0,1,0,Not Requested
+433,Orders,Accessing Data,Help Link,1,1,0,Not Requested
+434,Finances,Registration Help,Mentor,1,1,0,Not Requested
+435,Apps,Registration Help,Mentor,1,1,1,Natanael
+436,Customers,Registration Help,Help Link,0,1,1,Yik
+437,Marketing,other,Mentor,1,1,1,Natanael
+438,Marketing,Registration Help,Help Link,0,1,1,Natanael
+439,Analytics,other,Community Hub,1,1,0,Not Requested
+440,Apps,Accessing Data,Help Link,1,1,0,Not Requested
+441,Apps,Registration Help,Community Hub,1,0,0,Not Requested
+442,Marketing,other,Mentor,1,1,0,Not Requested
+443,Marketing,other,Community Hub,1,1,1,Ben
+444,Orders,App Functionality,Community Hub,1,1,0,Not Requested
+445,Marketing,App Functionality,Community Hub,1,0,0,Not Requested
+446,Analytics,Registration Help,Mentor,1,0,0,Not Requested
+447,Apps,Registration Help,Mentor,0,0,0,Not Requested
+448,Analytics,Accessing Data,Mentor,0,0,0,Not Requested
+449,Apps,other,Mentor,1,0,0,Not Requested
+450,Finances,other,Community Hub,0,0,0,Not Requested
+451,Analytics,Registration Help,Mentor,0,1,0,Not Requested
+452,Apps,Adding Promo Code,Help Link,0,1,0,Not Requested
+453,Products,Accessing Data,Help Link,1,1,1,Chantal
+454,Finances,Accessing Data,Help Link,1,1,0,Not Requested
+455,Finances,Registration Help,Mentor,1,0,0,Not Requested
+456,Analytics,other,Mentor,1,1,0,Not Requested
+457,Home,Adding Promo Code,Community Hub,1,0,0,Not Requested
+458,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+459,Home,other,Community Hub,1,1,0,Not Requested
+460,Apps,other,Help Link,1,1,1,Ben
+461,Analytics,App Functionality,Mentor,0,0,0,Not Requested
+462,Marketing,App Functionality,Community Hub,0,1,0,Not Requested
+463,Analytics,Adding Promo Code,Community Hub,1,0,0,Not Requested
+464,Orders,Registration Help,Help Link,1,1,0,Not Requested
+465,Apps,Registration Help,Help Link,1,0,0,Not Requested
+466,Marketing,App Functionality,Mentor,0,1,1,Fahd
+467,Home,Registration Help,Mentor,0,1,1,Fahd
+468,Home,App Functionality,Help Link,1,0,0,Not Requested
+469,Marketing,other,Community Hub,0,0,0,Not Requested
+470,Apps,Accessing Data,Mentor,0,1,0,Not Requested
+471,Orders,Registration Help,Mentor,1,1,0,Not Requested
+472,Orders,other,Mentor,0,1,1,Chantal
+473,Apps,other,Mentor,1,1,0,Not Requested
+474,Home,Registration Help,Help Link,1,1,0,Not Requested
+475,Analytics,other,Mentor,1,1,1,Shaneel
+476,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+477,Finances,App Functionality,Help Link,1,0,0,Not Requested
+478,Customers,Accessing Data,Mentor,1,1,0,Not Requested
+479,Apps,other,Help Link,0,1,0,Not Requested
+480,Orders,Registration Help,Mentor,1,1,1,Chantal
+481,Orders,other,Help Link,1,0,0,Not Requested
+482,Home,Accessing Data,Help Link,1,1,1,Maya
+483,Analytics,Accessing Data,Community Hub,1,0,0,Not Requested
+484,Marketing,Registration Help,Help Link,1,1,0,Not Requested
+485,Orders,Registration Help,Mentor,1,1,1,Natanael
+486,Analytics,Registration Help,Help Link,0,1,1,Natanael
+487,Apps,Accessing Data,Mentor,0,0,0,Not Requested
+488,Products,Registration Help,Help Link,1,0,0,Not Requested
+489,Home,Accessing Data,Help Link,1,1,0,Not Requested
+490,Customers,other,Mentor,0,0,0,Not Requested
+491,Orders,other,Help Link,1,0,0,Not Requested
+492,Orders,other,Community Hub,0,0,0,Not Requested
+493,Analytics,Registration Help,Help Link,1,1,0,Not Requested
+494,Analytics,Registration Help,Help Link,1,0,0,Not Requested
+495,Analytics,App Functionality,Mentor,1,0,0,Not Requested
+496,Home,other,Community Hub,0,0,0,Not Requested
+497,Discounts,Adding Promo Code,Help Link,1,0,0,Not Requested
+498,Customers,Accessing Data,Community Hub,1,0,0,Not Requested
+499,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+500,Orders,Accessing Data,Help Link,1,0,0,Not Requested
+501,Orders,other,Mentor,1,1,1,Maya
+502,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+503,Finances,Accessing Data,Mentor,1,0,0,Not Requested
+504,Finances,other,Mentor,1,1,0,Not Requested
+505,Orders,Accessing Data,Mentor,1,1,1,Ben
+506,Analytics,Registration Help,Community Hub,0,1,0,Not Requested
+507,Apps,Registration Help,Help Link,0,1,0,Not Requested
+508,Products,other,Help Link,0,1,1,Fahd
+509,Apps,Registration Help,Mentor,0,1,0,Not Requested
+510,Orders,App Functionality,Help Link,1,1,1,Fahd
+511,Customers,other,Help Link,1,1,0,Not Requested
+512,Orders,Accessing Data,Help Link,1,1,0,Not Requested
+513,Apps,other,Community Hub,0,1,1,Ben
+514,Apps,Registration Help,Mentor,0,0,0,Not Requested
+515,Orders,Registration Help,Community Hub,1,1,1,Ben
+516,Apps,Registration Help,Help Link,0,0,0,Not Requested
+517,Orders,other,Community Hub,0,1,0,Not Requested
+518,Customers,Registration Help,Community Hub,0,1,1,Ben
+519,Apps,other,Help Link,1,0,0,Not Requested
+520,Orders,App Functionality,Community Hub,0,0,0,Not Requested
+521,Apps,other,Mentor,0,0,0,Not Requested
+522,Apps,Adding Promo Code,Help Link,1,1,0,Not Requested
+523,Products,App Functionality,Help Link,0,0,0,Not Requested
+524,Home,other,Community Hub,1,1,1,Yik
+525,Analytics,Accessing Data,Community Hub,1,1,0,Not Requested
+526,Products,other,Help Link,1,1,0,Not Requested
+527,Apps,Registration Help,Mentor,0,1,0,Not Requested
+528,Apps,Adding Promo Code,Community Hub,1,0,0,Not Requested
+529,Marketing,Adding Promo Code,Mentor,1,1,1,Chantal
+530,Customers,Registration Help,Help Link,1,1,1,Chantal
+531,Finances,Accessing Data,Help Link,0,0,0,Not Requested
+532,Products,Adding Promo Code,Community Hub,0,1,0,Not Requested
+533,Analytics,other,Mentor,0,0,0,Not Requested
+534,Analytics,other,Help Link,0,1,1,Fahd
+535,Customers,Accessing Data,Community Hub,1,0,0,Not Requested
+536,Orders,Registration Help,Mentor,1,0,0,Not Requested
+537,Orders,other,Mentor,0,1,1,Natanael
+538,Finances,other,Mentor,0,1,0,Not Requested
+539,Analytics,Accessing Data,Help Link,0,0,0,Not Requested
+540,Apps,Registration Help,Mentor,1,0,0,Not Requested
+541,Finances,other,Mentor,0,0,0,Not Requested
+542,Marketing,other,Mentor,1,0,0,Not Requested
+543,Marketing,other,Help Link,0,0,0,Not Requested
+544,Finances,Adding Promo Code,Help Link,1,0,0,Not Requested
+545,Finances,Registration Help,Help Link,0,1,0,Not Requested
+546,Finances,Accessing Data,Mentor,1,1,0,Not Requested
+547,Finances,Registration Help,Mentor,1,1,1,Fahd
+548,Analytics,other,Community Hub,1,0,0,Not Requested
+549,Apps,Accessing Data,Mentor,0,1,1,Fahd
+550,Marketing,App Functionality,Mentor,1,0,0,Not Requested
+551,Analytics,Accessing Data,Help Link,1,0,0,Not Requested
+552,Home,Registration Help,Mentor,1,0,0,Not Requested
+553,Orders,Adding Promo Code,Community Hub,1,0,0,Not Requested
+554,Apps,App Functionality,Mentor,1,0,0,Not Requested
+555,Customers,Accessing Data,Mentor,0,1,0,Not Requested
+556,Analytics,other,Mentor,1,1,0,Not Requested
+557,Apps,Accessing Data,Help Link,1,0,0,Not Requested
+558,Apps,Registration Help,Mentor,1,1,0,Not Requested
+559,Analytics,Registration Help,Mentor,1,1,1,Natanael
+560,Marketing,Registration Help,Help Link,1,1,0,Not Requested
+561,Marketing,Registration Help,Mentor,1,1,0,Not Requested
+562,Analytics,other,Help Link,1,0,0,Not Requested
+563,Orders,App Functionality,Community Hub,1,1,0,Not Requested
+564,Customers,App Functionality,Community Hub,1,1,1,Chantal
+565,Orders,other,Help Link,1,1,1,Yik
+566,Orders,Registration Help,Mentor,1,1,1,Fahd
+567,Analytics,Adding Promo Code,Help Link,1,1,0,Not Requested
+568,Finances,Registration Help,Community Hub,0,1,1,Fahd
+569,Marketing,other,Community Hub,0,0,0,Not Requested
+570,Apps,other,Help Link,0,1,0,Not Requested
+571,Home,Registration Help,Help Link,1,1,1,Shaneel
+572,Marketing,other,Community Hub,0,0,0,Not Requested
+573,Marketing,Accessing Data,Help Link,1,0,0,Not Requested
+574,Apps,Accessing Data,Community Hub,0,0,0,Not Requested
+575,Home,other,Help Link,0,0,0,Not Requested
+576,Apps,Registration Help,Mentor,1,0,0,Not Requested
+577,Apps,Registration Help,Mentor,1,1,0,Not Requested
+578,Orders,Accessing Data,Mentor,1,1,1,Shaneel
+579,Analytics,other,Help Link,1,0,0,Not Requested
+580,Apps,Registration Help,Help Link,1,1,0,Not Requested
+581,Orders,Registration Help,Mentor,1,0,0,Not Requested
+582,Marketing,Registration Help,Community Hub,1,1,1,Chantal
+583,Apps,Registration Help,Help Link,1,0,0,Not Requested
+584,Orders,Accessing Data,Mentor,0,1,0,Not Requested
+585,Orders,other,Help Link,1,1,0,Not Requested
+586,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+587,Orders,Adding Promo Code,Community Hub,1,1,1,Fahd
+588,Analytics,Registration Help,Help Link,1,1,0,Not Requested
+589,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+590,Home,Accessing Data,Community Hub,0,1,0,Not Requested
+591,Apps,Registration Help,Mentor,1,1,1,Ben
+592,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+593,Orders,App Functionality,Community Hub,0,1,0,Not Requested
+594,Customers,Adding Promo Code,Mentor,0,1,1,Maya
+595,Analytics,Registration Help,Community Hub,1,0,0,Not Requested
+596,Discounts,App Functionality,Community Hub,1,1,1,Ben
+597,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+598,Apps,App Functionality,Community Hub,0,0,0,Not Requested
+599,Customers,Accessing Data,Help Link,1,0,0,Not Requested
+600,Apps,other,Mentor,1,1,0,Not Requested
+601,Home,App Functionality,Community Hub,1,1,0,Not Requested
+602,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+603,Apps,other,Community Hub,0,1,0,Not Requested
+604,Apps,other,Mentor,1,1,0,Not Requested
+605,Orders,other,Community Hub,1,1,0,Not Requested
+606,Home,Registration Help,Mentor,1,0,0,Not Requested
+607,Customers,other,Help Link,1,1,1,Maya
+608,Home,Registration Help,Mentor,1,1,0,Not Requested
+609,Orders,Registration Help,Mentor,1,1,1,Ben
+610,Marketing,Adding Promo Code,Help Link,1,1,0,Not Requested
+611,Orders,other,Help Link,1,0,0,Not Requested
+612,Orders,Registration Help,Community Hub,0,1,1,Shaneel
+613,Marketing,Accessing Data,Community Hub,1,0,0,Not Requested
+614,Orders,Accessing Data,Community Hub,1,1,1,Ben
+615,Analytics,Accessing Data,Help Link,1,1,0,Not Requested
+616,Marketing,Registration Help,Community Hub,0,0,0,Not Requested
+617,Home,Registration Help,Help Link,0,0,0,Not Requested
+618,Orders,Accessing Data,Mentor,1,1,1,Fahd
+619,Finances,other,Community Hub,0,0,0,Not Requested
+620,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+621,Apps,Registration Help,Help Link,1,1,1,Yik
+622,Orders,Registration Help,Mentor,1,1,0,Not Requested
+623,Marketing,Registration Help,Mentor,1,1,1,Natanael
+624,Apps,Registration Help,Community Hub,1,1,0,Not Requested
+625,Apps,Registration Help,Help Link,0,1,1,Shaneel
+626,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+627,Marketing,App Functionality,Help Link,0,1,1,Fahd
+628,Finances,Registration Help,Help Link,1,0,0,Not Requested
+629,Marketing,App Functionality,Mentor,1,1,1,Chantal
+630,Marketing,App Functionality,Community Hub,0,1,0,Not Requested
+631,Orders,Registration Help,Help Link,0,0,0,Not Requested
+632,Finances,other,Mentor,1,1,1,Fahd
+633,Finances,Accessing Data,Mentor,1,0,0,Not Requested
+634,Marketing,Registration Help,Community Hub,0,0,0,Not Requested
+635,Home,Adding Promo Code,Mentor,0,1,0,Not Requested
+636,Apps,Accessing Data,Help Link,1,1,1,Chantal
+637,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+638,Analytics,other,Help Link,1,1,1,Maya
+639,Apps,App Functionality,Help Link,0,0,0,Not Requested
+640,Products,Accessing Data,Community Hub,0,1,1,Maya
+641,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+642,Apps,Registration Help,Community Hub,0,1,0,Not Requested
+643,Customers,Accessing Data,Community Hub,1,0,0,Not Requested
+644,Apps,Adding Promo Code,Mentor,1,0,0,Not Requested
+645,Orders,Registration Help,Community Hub,0,1,1,Chantal
+646,Analytics,Registration Help,Community Hub,0,0,0,Not Requested
+647,Apps,Registration Help,Help Link,0,0,0,Not Requested
+648,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+649,Apps,Accessing Data,Help Link,0,1,1,Maya
+650,Apps,other,Help Link,0,0,0,Not Requested
+651,Marketing,Registration Help,Community Hub,0,1,0,Not Requested
+652,Customers,Accessing Data,Community Hub,1,1,1,Chantal
+653,Finances,other,Community Hub,1,0,0,Not Requested
+654,Finances,Registration Help,Help Link,0,0,0,Not Requested
+655,Analytics,Registration Help,Mentor,1,1,1,Shaneel
+656,Home,Adding Promo Code,Community Hub,0,0,0,Not Requested
+657,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+658,Analytics,Registration Help,Community Hub,0,1,0,Not Requested
+659,Products,other,Community Hub,0,1,0,Not Requested
+660,Customers,App Functionality,Community Hub,1,0,0,Not Requested
+661,Orders,Accessing Data,Community Hub,0,1,1,Natanael
+662,Apps,Registration Help,Community Hub,1,1,1,Yik
+663,Apps,Registration Help,Mentor,0,1,1,Yik
+664,Apps,Registration Help,Help Link,1,0,0,Not Requested
+665,Orders,Accessing Data,Community Hub,0,0,0,Not Requested
+666,Analytics,Registration Help,Mentor,0,0,0,Not Requested
+667,Marketing,Adding Promo Code,Mentor,1,0,0,Not Requested
+668,Customers,Adding Promo Code,Community Hub,1,1,0,Not Requested
+669,Home,Adding Promo Code,Help Link,1,0,0,Not Requested
+670,Products,Registration Help,Help Link,0,0,0,Not Requested
+671,Orders,Accessing Data,Mentor,1,1,1,Fahd
+672,Home,Accessing Data,Mentor,0,1,1,Ben
+673,Customers,Registration Help,Community Hub,1,1,1,Maya
+674,Orders,Registration Help,Help Link,1,0,0,Not Requested
+675,Orders,other,Help Link,0,1,1,Fahd
+676,Orders,Registration Help,Mentor,0,1,0,Not Requested
+677,Finances,Registration Help,Community Hub,1,1,0,Not Requested
+678,Finances,Adding Promo Code,Help Link,0,1,0,Not Requested
+679,Products,Registration Help,Mentor,1,1,1,Natanael
+680,Analytics,other,Community Hub,1,0,0,Not Requested
+681,Orders,Accessing Data,Mentor,1,1,1,Maya
+682,Apps,App Functionality,Mentor,0,0,0,Not Requested
+683,Home,App Functionality,Community Hub,0,0,0,Not Requested
+684,Marketing,Accessing Data,Help Link,0,1,1,Ben
+685,Marketing,Accessing Data,Mentor,1,0,0,Not Requested
+686,Orders,Accessing Data,Help Link,1,1,1,Shaneel
+687,Home,Registration Help,Community Hub,1,1,1,Natanael
+688,Marketing,Registration Help,Help Link,1,1,1,Chantal
+689,Products,Adding Promo Code,Community Hub,1,1,1,Ben
+690,Marketing,Registration Help,Community Hub,0,1,0,Not Requested
+691,Apps,Accessing Data,Mentor,1,1,1,Shaneel
+692,Analytics,other,Community Hub,1,1,1,Maya
+693,Analytics,Accessing Data,Community Hub,1,1,1,Fahd
+694,Marketing,other,Community Hub,0,1,0,Not Requested
+695,Apps,other,Mentor,1,1,0,Not Requested
+696,Analytics,Registration Help,Help Link,1,0,0,Not Requested
+697,Apps,Registration Help,Mentor,0,0,0,Not Requested
+698,Analytics,Accessing Data,Community Hub,0,1,1,Shaneel
+699,Apps,Accessing Data,Mentor,0,1,1,Shaneel
+700,Customers,Accessing Data,Community Hub,1,1,1,Ben
+701,Analytics,Registration Help,Mentor,1,0,0,Not Requested
+702,Orders,Registration Help,Community Hub,0,0,0,Not Requested
+703,Analytics,other,Mentor,1,0,0,Not Requested
+704,Finances,Accessing Data,Mentor,0,0,0,Not Requested
+705,Finances,Accessing Data,Mentor,1,1,0,Not Requested
+706,Apps,Adding Promo Code,Help Link,1,1,0,Not Requested
+707,Marketing,Accessing Data,Mentor,1,1,0,Not Requested
+708,Marketing,Registration Help,Help Link,0,1,0,Not Requested
+709,Marketing,Adding Promo Code,Mentor,0,1,1,Ben
+710,Products,other,Help Link,0,0,0,Not Requested
+711,Apps,Registration Help,Community Hub,0,1,0,Not Requested
+712,Apps,other,Community Hub,1,0,0,Not Requested
+713,Apps,Accessing Data,Help Link,1,1,1,Natanael
+714,Analytics,Adding Promo Code,Community Hub,1,1,0,Not Requested
+715,Apps,Adding Promo Code,Community Hub,0,0,0,Not Requested
+716,Apps,App Functionality,Mentor,0,0,0,Not Requested
+717,Orders,App Functionality,Help Link,1,0,0,Not Requested
+718,Apps,other,Mentor,1,0,0,Not Requested
+719,Analytics,other,Community Hub,1,1,1,Maya
+720,Home,other,Mentor,0,0,0,Not Requested
+721,Analytics,Adding Promo Code,Mentor,0,0,0,Not Requested
+722,Apps,Accessing Data,Help Link,0,1,0,Not Requested
+723,Apps,Registration Help,Mentor,1,1,1,Natanael
+724,Apps,Registration Help,Help Link,1,0,0,Not Requested
+725,Orders,Registration Help,Community Hub,0,1,1,Chantal
+726,Apps,Registration Help,Community Hub,1,0,0,Not Requested
+727,Apps,other,Mentor,0,1,1,Yik
+728,Apps,App Functionality,Help Link,1,0,0,Not Requested
+729,Orders,Accessing Data,Help Link,1,0,0,Not Requested
+730,Analytics,Registration Help,Help Link,0,0,0,Not Requested
+731,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+732,Analytics,Registration Help,Mentor,0,0,0,Not Requested
+733,Apps,other,Community Hub,1,0,0,Not Requested
+734,Apps,Registration Help,Mentor,0,1,1,Shaneel
+735,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+736,Apps,App Functionality,Help Link,1,1,0,Not Requested
+737,Apps,Adding Promo Code,Mentor,0,1,0,Not Requested
+738,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+739,Apps,Registration Help,Help Link,0,0,0,Not Requested
+740,Orders,Adding Promo Code,Help Link,0,1,1,Natanael
+741,Analytics,Registration Help,Community Hub,1,0,0,Not Requested
+742,Analytics,Adding Promo Code,Mentor,1,1,1,Natanael
+743,Home,other,Mentor,0,0,0,Not Requested
+744,Analytics,other,Help Link,0,1,0,Not Requested
+745,Orders,Registration Help,Mentor,1,0,0,Not Requested
+746,Orders,Adding Promo Code,Community Hub,0,1,1,Maya
+747,Home,Accessing Data,Help Link,0,0,0,Not Requested
+748,Customers,Registration Help,Community Hub,1,1,0,Not Requested
+749,Analytics,Accessing Data,Help Link,0,1,0,Not Requested
+750,Apps,Adding Promo Code,Help Link,1,0,0,Not Requested
+751,Orders,Accessing Data,Help Link,1,0,0,Not Requested
+752,Apps,other,Help Link,1,1,0,Not Requested
+753,Marketing,other,Community Hub,1,0,0,Not Requested
+754,Apps,Registration Help,Help Link,0,0,0,Not Requested
+755,Marketing,Accessing Data,Mentor,1,1,0,Not Requested
+756,Apps,other,Mentor,1,1,1,Fahd
+757,Analytics,Registration Help,Mentor,1,0,0,Not Requested
+758,Apps,other,Help Link,1,0,0,Not Requested
+759,Home,Registration Help,Community Hub,1,1,1,Yik
+760,Apps,Accessing Data,Mentor,1,1,0,Not Requested
+761,Analytics,Registration Help,Community Hub,0,0,0,Not Requested
+762,Analytics,other,Mentor,1,1,1,Chantal
+763,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+764,Orders,Registration Help,Help Link,1,0,0,Not Requested
+765,Analytics,App Functionality,Help Link,0,0,0,Not Requested
+766,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+767,Finances,Accessing Data,Community Hub,1,1,1,Shaneel
+768,Home,Registration Help,Community Hub,0,1,1,Fahd
+769,Customers,Registration Help,Help Link,1,0,0,Not Requested
+770,Products,Registration Help,Help Link,1,1,0,Not Requested
+771,Apps,Registration Help,Help Link,1,1,0,Not Requested
+772,Products,Accessing Data,Help Link,0,0,0,Not Requested
+773,Apps,Registration Help,Help Link,0,1,0,Not Requested
+774,Marketing,Accessing Data,Help Link,0,1,1,Yik
+775,Analytics,other,Community Hub,0,1,1,Yik
+776,Finances,Accessing Data,Mentor,1,0,0,Not Requested
+777,Orders,Registration Help,Help Link,1,0,0,Not Requested
+778,Apps,other,Community Hub,1,1,1,Chantal
+779,Apps,Adding Promo Code,Mentor,1,1,0,Not Requested
+780,Orders,other,Mentor,1,0,0,Not Requested
+781,Orders,other,Community Hub,1,0,0,Not Requested
+782,Customers,other,Community Hub,1,1,1,Natanael
+783,Apps,Registration Help,Help Link,1,1,1,Natanael
+784,Orders,Accessing Data,Mentor,1,0,0,Not Requested
+785,Orders,other,Community Hub,1,1,0,Not Requested
+786,Home,Adding Promo Code,Community Hub,0,1,1,Natanael
+787,Orders,other,Community Hub,1,1,0,Not Requested
+788,Home,Registration Help,Mentor,1,1,0,Not Requested
+789,Apps,Registration Help,Mentor,1,0,0,Not Requested
+790,Orders,other,Community Hub,1,0,0,Not Requested
+791,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+792,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+793,Marketing,Adding Promo Code,Help Link,1,1,0,Not Requested
+794,Orders,Registration Help,Community Hub,1,1,0,Not Requested
+795,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+796,Home,other,Community Hub,1,1,1,Yik
+797,Home,Registration Help,Community Hub,0,1,0,Not Requested
+798,Discounts,Registration Help,Community Hub,0,1,1,Maya
+799,Apps,App Functionality,Mentor,0,1,0,Not Requested
+800,Analytics,App Functionality,Help Link,1,0,0,Not Requested
+801,Marketing,App Functionality,Mentor,1,1,1,Ben
+802,Finances,Registration Help,Community Hub,1,0,0,Not Requested
+803,Customers,Registration Help,Help Link,0,1,0,Not Requested
+804,Apps,Registration Help,Help Link,0,0,0,Not Requested
+805,Apps,Registration Help,Help Link,1,0,0,Not Requested
+806,Marketing,Accessing Data,Mentor,0,1,0,Not Requested
+807,Apps,Registration Help,Community Hub,0,1,0,Not Requested
+808,Customers,other,Help Link,1,0,0,Not Requested
+809,Analytics,other,Help Link,1,1,1,Ben
+810,Apps,Adding Promo Code,Community Hub,1,0,0,Not Requested
+811,Orders,Accessing Data,Community Hub,1,1,0,Not Requested
+812,Orders,Accessing Data,Help Link,0,1,1,Maya
+813,Apps,Accessing Data,Community Hub,0,1,0,Not Requested
+814,Analytics,Registration Help,Help Link,1,0,0,Not Requested
+815,Apps,Accessing Data,Mentor,0,1,1,Chantal
+816,Marketing,Accessing Data,Help Link,1,1,0,Not Requested
+817,Orders,App Functionality,Community Hub,1,0,0,Not Requested
+818,Orders,other,Help Link,1,0,0,Not Requested
+819,Orders,other,Mentor,1,0,0,Not Requested
+820,Finances,Accessing Data,Community Hub,0,0,0,Not Requested
+821,Home,Accessing Data,Community Hub,0,1,1,Yik
+822,Marketing,App Functionality,Community Hub,1,0,0,Not Requested
+823,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+824,Home,App Functionality,Community Hub,0,0,0,Not Requested
+825,Orders,other,Community Hub,1,0,0,Not Requested
+826,Home,App Functionality,Help Link,1,1,1,Shaneel
+827,Analytics,App Functionality,Mentor,0,1,0,Not Requested
+828,Apps,Accessing Data,Mentor,0,1,0,Not Requested
+829,Apps,Adding Promo Code,Help Link,0,1,0,Not Requested
+830,Products,App Functionality,Mentor,0,0,0,Not Requested
+831,Finances,Adding Promo Code,Community Hub,1,1,1,Maya
+832,Home,App Functionality,Help Link,1,1,1,Natanael
+833,Apps,Registration Help,Community Hub,1,1,0,Not Requested
+834,Analytics,Registration Help,Community Hub,1,0,0,Not Requested
+835,Apps,Adding Promo Code,Community Hub,0,0,0,Not Requested
+836,Finances,Registration Help,Help Link,0,1,0,Not Requested
+837,Analytics,Accessing Data,Mentor,1,1,0,Not Requested
+838,Orders,Registration Help,Community Hub,1,1,0,Not Requested
+839,Apps,Registration Help,Community Hub,1,1,0,Not Requested
+840,Apps,App Functionality,Mentor,1,0,0,Not Requested
+841,Marketing,Accessing Data,Mentor,1,0,0,Not Requested
+842,Finances,other,Mentor,0,1,0,Not Requested
+843,Apps,Adding Promo Code,Help Link,0,1,1,Ben
+844,Finances,Accessing Data,Help Link,0,0,0,Not Requested
+845,Home,Registration Help,Community Hub,1,0,0,Not Requested
+846,Apps,other,Community Hub,1,0,0,Not Requested
+847,Marketing,Accessing Data,Mentor,1,0,0,Not Requested
+848,Analytics,other,Mentor,1,0,0,Not Requested
+849,Orders,Adding Promo Code,Mentor,1,1,1,Chantal
+850,Apps,Accessing Data,Community Hub,1,1,1,Chantal
+851,Orders,Registration Help,Help Link,1,0,0,Not Requested
+852,Marketing,App Functionality,Community Hub,1,1,1,Yik
+853,Marketing,Registration Help,Community Hub,1,0,0,Not Requested
+854,Finances,Registration Help,Help Link,1,0,0,Not Requested
+855,Orders,App Functionality,Community Hub,1,1,1,Ben
+856,Finances,Registration Help,Help Link,1,0,0,Not Requested
+857,Marketing,App Functionality,Mentor,0,1,1,Ben
+858,Apps,Registration Help,Help Link,1,1,0,Not Requested
+859,Marketing,Adding Promo Code,Mentor,0,0,0,Not Requested
+860,Analytics,other,Community Hub,1,1,0,Not Requested
+861,Home,Registration Help,Help Link,1,1,0,Not Requested
+862,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+863,Finances,other,Mentor,1,0,0,Not Requested
+864,Orders,Registration Help,Help Link,1,1,0,Not Requested
+865,Analytics,other,Community Hub,1,0,0,Not Requested
+866,Customers,Registration Help,Help Link,1,1,1,Maya
+867,Home,App Functionality,Community Hub,1,0,0,Not Requested
+868,Apps,Registration Help,Community Hub,1,0,0,Not Requested
+869,Marketing,Registration Help,Community Hub,1,1,1,Ben
+870,Home,other,Help Link,1,0,0,Not Requested
+871,Home,Accessing Data,Community Hub,1,0,0,Not Requested
+872,Apps,other,Help Link,0,1,1,Yik
+873,Orders,Registration Help,Mentor,1,1,1,Maya
+874,Discounts,Registration Help,Community Hub,0,0,0,Not Requested
+875,Orders,Registration Help,Help Link,0,1,1,Fahd
+876,Orders,Adding Promo Code,Community Hub,0,1,1,Shaneel
+877,Orders,Registration Help,Community Hub,1,1,0,Not Requested
+878,Marketing,Registration Help,Help Link,0,1,1,Fahd
+879,Analytics,other,Help Link,1,1,0,Not Requested
+880,Marketing,Registration Help,Community Hub,0,1,1,Fahd
+881,Analytics,Registration Help,Mentor,1,0,0,Not Requested
+882,Apps,Registration Help,Mentor,1,1,1,Maya
+883,Apps,Registration Help,Mentor,1,1,0,Not Requested
+884,Analytics,Accessing Data,Community Hub,1,1,0,Not Requested
+885,Orders,App Functionality,Help Link,0,0,0,Not Requested
+886,Customers,other,Mentor,1,0,0,Not Requested
+887,Finances,Registration Help,Help Link,1,0,0,Not Requested
+888,Apps,other,Community Hub,1,1,1,Chantal
+889,Finances,Accessing Data,Help Link,1,0,0,Not Requested
+890,Finances,Registration Help,Help Link,1,0,0,Not Requested
+891,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+892,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+893,Products,App Functionality,Mentor,1,0,0,Not Requested
+894,Apps,Registration Help,Mentor,0,0,0,Not Requested
+895,Marketing,other,Community Hub,1,1,1,Maya
+896,Apps,Accessing Data,Community Hub,0,0,0,Not Requested
+897,Customers,other,Community Hub,0,1,1,Natanael
+898,Marketing,Registration Help,Mentor,0,1,0,Not Requested
+899,Orders,other,Community Hub,1,1,1,Maya
+900,Apps,Accessing Data,Help Link,0,1,1,Fahd
+901,Marketing,Registration Help,Mentor,1,1,1,Shaneel
+902,Finances,Registration Help,Community Hub,0,0,0,Not Requested
+903,Finances,Accessing Data,Help Link,1,1,1,Yik
+904,Finances,Accessing Data,Community Hub,1,1,0,Not Requested
+905,Apps,Adding Promo Code,Mentor,1,1,1,Fahd
+906,Apps,Registration Help,Help Link,0,0,0,Not Requested
+907,Apps,Accessing Data,Community Hub,1,0,0,Not Requested
+908,Apps,other,Community Hub,1,0,0,Not Requested
+909,Products,Registration Help,Help Link,1,0,0,Not Requested
+910,Orders,Registration Help,Mentor,1,0,0,Not Requested
+911,Orders,other,Mentor,1,0,0,Not Requested
+912,Finances,other,Mentor,1,1,0,Not Requested
+913,Analytics,Adding Promo Code,Mentor,1,0,0,Not Requested
+914,Customers,Accessing Data,Mentor,0,1,1,Shaneel
+915,Products,Registration Help,Community Hub,1,0,0,Not Requested
+916,Orders,other,Community Hub,0,1,1,Chantal
+917,Products,Adding Promo Code,Mentor,1,1,0,Not Requested
+918,Apps,Registration Help,Mentor,1,1,1,Maya
+919,Home,Accessing Data,Mentor,1,1,0,Not Requested
+920,Products,Registration Help,Help Link,1,1,0,Not Requested
+921,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+922,Apps,Adding Promo Code,Mentor,0,0,0,Not Requested
+923,Products,Accessing Data,Community Hub,0,1,1,Natanael
+924,Marketing,Registration Help,Mentor,0,0,0,Not Requested
+925,Orders,Registration Help,Help Link,1,1,0,Not Requested
+926,Analytics,Accessing Data,Mentor,1,0,0,Not Requested
+927,Apps,Accessing Data,Help Link,0,0,0,Not Requested
+928,Marketing,Adding Promo Code,Mentor,1,1,1,Fahd
+929,Marketing,other,Mentor,1,1,0,Not Requested
+930,Apps,other,Community Hub,1,1,1,Chantal
+931,Orders,other,Mentor,1,1,1,Natanael
+932,Apps,Registration Help,Help Link,0,0,0,Not Requested
+933,Apps,Registration Help,Help Link,1,0,0,Not Requested
+934,Orders,other,Community Hub,0,0,0,Not Requested
+935,Apps,Registration Help,Community Hub,1,0,0,Not Requested
+936,Apps,Accessing Data,Mentor,1,0,0,Not Requested
+937,Orders,Registration Help,Community Hub,1,0,0,Not Requested
+938,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+939,Apps,Adding Promo Code,Help Link,1,1,0,Not Requested
+940,Marketing,App Functionality,Help Link,0,1,0,Not Requested
+941,Finances,Accessing Data,Help Link,1,1,1,Shaneel
+942,Analytics,Accessing Data,Help Link,0,1,0,Not Requested
+943,Analytics,Accessing Data,Community Hub,1,0,0,Not Requested
+944,Analytics,App Functionality,Community Hub,1,0,0,Not Requested
+945,Home,other,Community Hub,1,1,0,Not Requested
+946,Orders,Accessing Data,Help Link,1,1,0,Not Requested
+947,Marketing,Accessing Data,Community Hub,1,0,0,Not Requested
+948,Home,other,Help Link,0,0,0,Not Requested
+949,Orders,Accessing Data,Community Hub,1,1,1,Shaneel
+950,Apps,Adding Promo Code,Community Hub,1,0,0,Not Requested
+951,Apps,Registration Help,Community Hub,0,0,0,Not Requested
+952,Finances,Accessing Data,Community Hub,0,1,1,Chantal
+953,Products,Accessing Data,Mentor,1,1,1,Shaneel
+954,Orders,App Functionality,Help Link,0,0,0,Not Requested
+955,Home,Adding Promo Code,Mentor,1,1,0,Not Requested
+956,Orders,Registration Help,Mentor,0,0,0,Not Requested
+957,Orders,App Functionality,Mentor,0,0,0,Not Requested
+958,Marketing,Registration Help,Community Hub,0,1,0,Not Requested
+959,Apps,Registration Help,Mentor,0,1,1,Maya
+960,Marketing,Registration Help,Help Link,1,0,0,Not Requested
+961,Finances,other,Community Hub,0,0,0,Not Requested
+962,Orders,other,Community Hub,1,1,0,Not Requested
+963,Discounts,Accessing Data,Help Link,1,1,0,Not Requested
+964,Finances,Registration Help,Help Link,0,1,0,Not Requested
+965,Orders,other,Mentor,0,1,1,Chantal
+966,Orders,other,Community Hub,0,0,0,Not Requested
+967,Marketing,Registration Help,Mentor,1,1,0,Not Requested
+968,Marketing,Adding Promo Code,Help Link,0,1,1,Chantal
+969,Analytics,Accessing Data,Community Hub,1,1,1,Maya
+970,Orders,other,Help Link,1,1,1,Natanael
+971,Apps,Registration Help,Help Link,1,1,0,Not Requested
+972,Apps,App Functionality,Community Hub,1,0,0,Not Requested
+973,Orders,Accessing Data,Help Link,1,1,1,Shaneel
+974,Marketing,Registration Help,Help Link,0,1,1,Ben
+975,Orders,Accessing Data,Community Hub,1,0,0,Not Requested
+976,Marketing,Registration Help,Help Link,1,1,1,Ben
+977,Customers,other,Community Hub,0,1,0,Not Requested
+978,Orders,Registration Help,Help Link,1,0,0,Not Requested
+979,Orders,Registration Help,Mentor,0,1,0,Not Requested
+980,Orders,Adding Promo Code,Mentor,1,0,0,Not Requested
+981,Orders,Accessing Data,Mentor,0,0,0,Not Requested
+982,Apps,App Functionality,Mentor,1,1,1,Shaneel
+983,Orders,other,Community Hub,1,1,0,Not Requested
+984,Orders,other,Community Hub,1,0,0,Not Requested
+985,Finances,Accessing Data,Help Link,0,1,0,Not Requested
+986,Marketing,App Functionality,Community Hub,1,1,1,Yik
+987,Customers,Accessing Data,Help Link,0,1,0,Not Requested
+988,Marketing,Adding Promo Code,Mentor,1,1,1,Yik
+989,Discounts,App Functionality,Community Hub,1,1,0,Not Requested
+990,Orders,Registration Help,Mentor,1,1,0,Not Requested
+991,Analytics,Accessing Data,Community Hub,1,0,0,Not Requested
+992,Customers,Registration Help,Community Hub,1,0,0,Not Requested
+993,Apps,Accessing Data,Mentor,0,0,0,Not Requested
+994,Analytics,Registration Help,Community Hub,1,0,0,Not Requested
+995,Home,other,Help Link,0,1,1,Maya
+996,Finances,Registration Help,Mentor,1,1,1,Maya
+997,Finances,Accessing Data,Mentor,1,1,1,Fahd
+998,Orders,other,Help Link,1,1,1,Ben
+999,Home,Accessing Data,Help Link,0,1,0,Not Requested
